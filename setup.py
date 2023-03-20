@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = '0.4.2'
+VERSION = '0.4.3'
 DESCRIPTION = 'A simple but powerful GUI python package for overlays. Forked from EthanEdits/overlayGUI'
 LONG_DESCRIPTION = 'A python package that uses Pygame to add an overlay to Windows'
 
