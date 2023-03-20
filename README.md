@@ -1,4 +1,4 @@
-Forked form https://github.com/ethanedits/overlayGUI
+Forked from https://github.com/ethanedits/overlayGUI
 
 # overlayGUI
 A simple but powerful GUI python package for overlays.

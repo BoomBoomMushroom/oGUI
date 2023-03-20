@@ -1,3 +1,6 @@
+# Full credits to EthanEdits
+# Their repo: https://github.com/ethanedits/overlayGUI
+
 import pygame, win32api, win32gui, win32con, time
 
 version = 0.4
@@ -8,9 +11,8 @@ screen = pygame.display.set_mode((width, height), pygame.NOFRAME)
 fuchsia = (255, 0, 128)
 hwnd = pygame.display.get_wm_info()["window"]
 
-programIcon = pygame.image.load('icon.png')
-
-pygame.display.set_icon(programIcon)
+#programIcon = pygame.image.load('icon.png')
+#pygame.display.set_icon(programIcon)
 
 white = (255, 255, 255)
 red = (255, 0, 0)
